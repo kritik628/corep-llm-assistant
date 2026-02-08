@@ -1,0 +1,7 @@
+[COREP-C01-010] Row 010: CET1 Capital — report the amount of Common Equity Tier 1 capital in GBP.
+
+[COREP-C01-020] Row 020: AT1 Capital — report the amount of Additional Tier 1 capital in GBP.
+
+[COREP-C01-030] Row 030: Tier 2 Capital — report the amount of Tier 2 capital in GBP.
+
+[COREP-C01-040] Row 040: Total Own Funds — report the total of CET1, AT1, and Tier 2 capital.

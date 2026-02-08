@@ -1,0 +1,7 @@
+[PRA-OF-1.1] Common Equity Tier 1 (CET1) capital consists primarily of ordinary share capital, share premium accounts, retained earnings, and other disclosed reserves, after deducting regulatory adjustments.
+
+[PRA-OF-1.2] Additional Tier 1 (AT1) capital includes instruments that are subordinated, have no fixed maturity, and can absorb losses on a going concern basis.
+
+[PRA-OF-1.3] Tier 2 capital consists mainly of subordinated debt instruments with a minimum original maturity of five years.
+
+[PRA-OF-1.4] Total Own Funds are the sum of CET1 capital, AT1 capital, and Tier 2 capital.
